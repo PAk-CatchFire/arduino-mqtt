@@ -1,0 +1,7 @@
+Hola, perdona el método pero no he encontrado la manera de enviar un mensaje en github.
+
+He visto que eres de españa y yo también, hemos cruzado posts en el repositorio de arduino-mqtt, estoy interesado en conseguir lo que has hecho con una ESP32.
+Tengo varias de esas plaquitas de más.
+Si te interesa puedo enviarte alguna y que puedas extender el repositorio con un ejemplo para la ESP32.
+
+Bueno, ya me dices algo...saludos.
